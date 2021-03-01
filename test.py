@@ -10,8 +10,15 @@
 # .format(temperature, prob) {}에 대입
 # a.split('w') w로 구분해 나누기
 # list(a) 알파벳 나누어 배열
+# print(type(a))
+# print(type(b))
+# b = a.replace( "1", "2")
 
-a = (1, 2, 3)
-b = list(a)
+# format()
 
-print(b)
+t = 25.5
+p = 60
+
+a = "오늘 기온{}도 이고, 비올 확률은 {}% 입니다.".format(t, p)
+print(a)
+
