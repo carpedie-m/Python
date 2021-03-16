@@ -24,14 +24,16 @@
 # .replace 문자열 내의 특정 문자 치환
 # - a = "영어는 1등이야.".replace("1", "2") // "영어는 2등이야."
 
-names = ['kim', 'park', 'lee']
-for i in names:
-    print('my name is %s' % i)
+# names = ['kim', 'park', 'lee']
+#for i in names:
+ #   print('my name is %s' % i)
 
 
-money = 10000
-s2 = 'give me %d won' % money
-print(s2)
+# money = 10000
+# s2 = 'give me %d won' % money
+# print(s2)
+
+
 
 
 
