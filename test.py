@@ -33,5 +33,7 @@
 # s2 = 'give me %d won' % money
 # print(s2)
 
+a = 5; -a ;
+print(a)
 
 
