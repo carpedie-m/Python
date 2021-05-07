@@ -35,6 +35,7 @@ print("\n4. Passing a list")
 str_list = ['I', 'love', 'Python'] 
 print(' {0} {1} {2}'.format(*str_list))
 # also access the elements in a list by subscripts
+
 print(' {0[0]} {0[1]} {0[2]}'.format(str_list))
 
 ## Advanced Usage : Formatting Symbols
