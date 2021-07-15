@@ -17,13 +17,6 @@ lst50 = soup.select('.lst50')
 # print(soup)
 # print(soup) : header 값 없어서 에러 406
 
-
-
-
-
-
-
-
 import csv
 
 f = open('melon_acsv.py', 'a', encoding='utf-8', newline='')
