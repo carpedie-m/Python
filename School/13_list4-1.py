@@ -10,13 +10,11 @@ if Debugging:
 	print(f' numbers_str = {number_str}, count = {len(number_str)}')
 
 # for-statement
-"""
 num_list = list()
 for num in number_str:
 	num_list.append(int(num))
 if Debugging:
 	print(f' num_list = {num_list}')
-"""
 
 # list comprehension
 num_list = [int(num_str) for num_str in number_str]
